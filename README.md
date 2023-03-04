@@ -11,6 +11,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TheDylanator0&theme=buefy&show_icons=true" width="450" /> 
 </p>
 
+<p align="right">
+
+  <img src="https://cdn.thedylanator.com/thedylanator.com-banner.png">
+  </p>
+
 
 <!--
 **TheDylanator0/TheDylanator0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
