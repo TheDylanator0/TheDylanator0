@@ -11,10 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TheDylanator0&theme=buefy&show_icons=true" width="450" /> 
 </p>
 
-<p align="right">
-
-  <img src="https://cdn.thedylanator.com/thedylanator.com-banner.png">
-  </p>
 
 
 <!--
